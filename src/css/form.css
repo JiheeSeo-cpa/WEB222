@@ -1,0 +1,26 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+ .required {
+     color: red;
+ }
+
+ .form {
+     width: 22% !important;
+ }
+
+ .form-control {
+     width:67%;
+ }
+
+ .photo {
+     width: 45%;
+ }
+
+ .license {
+     width: 70%
+ }
+
+ .control {
+     width: 72%
+ }
